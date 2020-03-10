@@ -1,0 +1,7 @@
+﻿  Character.cpp
+  GameManager.cpp
+D:\BIG CODE PROJECTS\Assignment 04.Mars\TurnbasedRPG\TurnbasedRPG\GameManager.cpp(197,43): warning C4018: '>=': signed/unsigned mismatch
+  TurnbasedRPG.cpp
+D:\BIG CODE PROJECTS\Assignment 04.Mars\TurnbasedRPG\TurnbasedRPG\TurnbasedRPG.cpp(6,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  TurnbasedRPG.vcxproj -> D:\BIG CODE PROJECTS\Assignment 04.Mars\TurnbasedRPG\Debug\TurnbasedRPG.exe
